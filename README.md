@@ -1,2 +1,2 @@
 # googleCybSec
-Cybersecurity Labs
+Coursera Google Cybersecurity course labs
